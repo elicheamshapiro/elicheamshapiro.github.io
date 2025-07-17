@@ -17,12 +17,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MRes Candidate in Economics
+role: Predoc @ Trinity College Dublin
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Sciences Po Department of Economics
-    url: https://www.sciencespo.fr/department-economics/
+  - name: Centre for Economics, Policy and History
+    url: https://ceph.ie/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -58,4 +58,4 @@ education:
 
 ## About Me
 
-I am a Cambodian-American MRes candidate in Economics at Institut d'Études Politiques de Paris (Sciences Po) and will graduate in June 2025. I received my BA in economics from Bard College in May 2023. In the Fall of 2025, I will be joining the Department of Economics at Trinity College Dublin as a Predoctoral Research Assistant.
+I am a predoctoral research assistant for the Centre for Economics, Policy and History and Department of Economics at Trinity College Dublin. I obtained my MRes candidate in Economics at Institut d'Études Politiques de Paris (Sciences Po) and will graduate in June 2025. I received my BA in economics from Bard College in May 2023.
