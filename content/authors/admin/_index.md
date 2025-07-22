@@ -45,13 +45,11 @@ education:
     institution: Institut d'Études Politiques de Paris (Sciences Po)
     date_start: 2023-08-01
     date_end: 2025-05-27
-    summary: |
-      GPA: 4.0/4.0
+    GPA: 4.0/4.0
   - area: BA in Economics
     institution: Bard College 
     date_start: 2019-08-01
     date_end: 2023-05-27
-    summary: |
       GPA: 3.8/4.0
 
 ---
@@ -59,3 +57,13 @@ education:
 ## About Me
 
 I am a predoctoral research assistant for the Centre for Economics, Policy and History and Department of Economics at Trinity College Dublin. I obtained my MRes candidate in Economics at Institut d'Études Politiques de Paris (Sciences Po) and will graduate in June 2025. I received my BA in economics from Bard College in May 2023.
+
+## Working Papers
+
+- **Windfall Profit Taxes and The Energy Sector**  
+  _In Progress_  
+  [Download PDF](link-to-paper1.pdf)
+
+- **The Unsustainable Process of Austerity**  
+  _In Progress_  
+  [Download PDF](link-to-paper2.pdf)
