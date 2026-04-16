@@ -2,44 +2,44 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "title": "CV",
     "section": "",
     "text": "Download PDF"
   },
   {
-    "objectID": "cv.html#eli-cheam-shapiro-mres",
-    "href": "cv.html#eli-cheam-shapiro-mres",
-    "title": "Curriculum Vitae",
-    "section": "Eli Cheam Shapiro, MRes",
-    "text": "Eli Cheam Shapiro, MRes\nelicheamshapiro@gmail.com | LinkedIn | Citizenship: United States"
-  },
-  {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
-    "title": "Curriculum Vitae",
+    "title": "CV",
     "section": "Education",
-    "text": "Education\nInstitut d’Études Politiques de Paris (Sciences Po) · Paris, France Master of Research in Economics · August 2023 – June 2025 GPA: 4.0/4.0 (Converted by Institution)\nBard College · Annandale-on-Hudson, United States Bachelor of Arts in Economics · August 2019 – May 2023 GPA: 3.8/4.0 Awards: Levy Economics Institute Prize (2023); OSUN Certificate in Public Policy and Economic Analysis (2023); Amicus Foundation Scholarship (2021)"
+    "text": "Education\nInstitut d’Études Politiques de Paris (Sciences Po) · Paris, France Master of Research in Economics · 2023–2025\nBard College · Annandale-on-Hudson, United States Bachelor of Arts in Economics · 2019–2023"
   },
   {
-    "objectID": "cv.html#skills-coursework",
-    "href": "cv.html#skills-coursework",
-    "title": "Curriculum Vitae",
-    "section": "Skills & Coursework",
-    "text": "Skills & Coursework\nTechnical Skills: R; STATA; Python; Julia; LaTeX; Salesforce; Microsoft Office; Optical Character Recognition; Census Matching; Panel and Cross-sectional Econometrics; DSGE Modeling; Randomized Control Trials\nLanguages: English (Native); French (B1); Khmer/Cambodian (Basic Work Proficiency)\nGraduate Coursework: Advanced Macroeconomics I, II, III; Advanced Microeconomics I, II; Advanced Econometrics I, II, III; Development Economics; Public Economics; Economic History; Computational Economics; Political Economy; International Economics"
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\nPenn Wharton Budget Model · Philadelphia, United States Analyst · June 2026–Present\nDepartment of Economics, Trinity College Dublin · Dublin, Ireland Predoctoral Research Assistant · 2025–2026\nThe Economic Journal, Royal Economic Society · Paris, France Replicator · 2024–2025\nKiel Institute for the World Economy · Remote Research Intern · 2024\nCeres, Inc. · Remote Financial Regulation Intern · 2023\nBard College Department of Economics · Annandale, United States Economics Tutor · 2022–2023\nMekong Strategic Group · Phnom Penh, Cambodia Analytics Intern · 2022\nOSUN – Economic Democracy Initiative · Annandale, United States Student Fellow · 2021\nOffice of Illinois State Senator Heather Steans · Chicago, United States Summer Intern · 2020"
   },
   {
-    "objectID": "cv.html#professional-experience",
-    "href": "cv.html#professional-experience",
-    "title": "Curriculum Vitae",
-    "section": "Professional Experience",
-    "text": "Professional Experience\nPenn Wharton Budget Model · Philadelphia, United States Analyst (Full-Time) · June 2026 – Present\nDepartment of Economics, Trinity College Dublin · Dublin, Ireland Predoctoral Research Assistant (Full-Time) · September 2025 – June 2026\n\nConsulted on data processing and econometric methodology for research papers\nDeveloped OCR (Python), census matching and cleaning (STATA) models to generate a large database of Russian Empire administrative and business surveys\nBuilt webscraping models (Python) to construct databases of 100,000 foreigners in pre-revolution Russia and to extract tables and graphs from House Commons Papers\nDeveloped VLM- and LLM-based OCR pipelines to convert historical PDFs into usable data\nTested and improved OCR models on the 1845–1914 Thom’s Street Directory reports from an HPC\n\nThe Economic Journal, Royal Economic Society · Paris, France Replicator (Part-Time) · August 2024 – June 2025\n\nReplicated journal paper submissions under the supervision of Dr. Florian Oswald\nIdentified errors in submission code and provided recommendations\n\nKiel Institute for the World Economy · Remote Research Intern (Full-Time) · July 2024 – September 2024\n\nSupported research by Dr. Christoph Trebesch and Dr. Johannes Marzian on militarization, public finance, and geopolitics; contributed to a working paper\nCollected, cleaned, and analyzed historical public finance data for 20+ advanced economies (1870–2020) in R and STATA\nProduced 200+ visualizations for exploratory analysis\n\nCeres, Inc. · Remote Financial Regulation Intern (Full-Time) · June 2023 – August 2023\n\nProduced reports on international, federal, and state financial regulation policies\nWrote an 11-page internal report on improving the Federal Reserve’s climate-risk scenario analysis\n\nBard College Department of Economics · Annandale, United States Economics Tutor (Part-Time) · March 2022 – May 2023\nMekong Strategic Group · Phnom Penh, Cambodia Analytics Intern (Full-Time) · June 2022 – August 2022\nOSUN – Economic Democracy Initiative · Annandale, United States Student Fellow (Full-Time) · June 2021 – August 2021\nOffice of Illinois State Senator Heather Steans · Chicago, United States Summer Intern (Full-Time) · June 2020 – August 2020"
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nTechnical: R, STATA, Python, Julia, LaTeX, Salesforce, Microsoft Office\nMethods: Panel and Cross-sectional Econometrics, DSGE Modeling, Randomized Control Trials, Optical Character Recognition, Census Matching\nLanguages: English (Native), French (B1), Khmer/Cambodian (Basic Work Proficiency)"
+  },
+  {
+    "objectID": "cv.html#coursework",
+    "href": "cv.html#coursework",
+    "title": "CV",
+    "section": "Coursework",
+    "text": "Coursework\nAdvanced Macroeconomics I, II, III · Advanced Microeconomics I, II · Advanced Econometrics I, II, III · Development Economics · Public Economics · Economic History · Computational Economics · Political Economy · International Economics"
   },
   {
     "objectID": "cv.html#leadership-activities",
     "href": "cv.html#leadership-activities",
-    "title": "Curriculum Vitae",
+    "title": "CV",
     "section": "Leadership & Activities",
-    "text": "Leadership & Activities\n\nNew York Southeast Asia Society, Member · 2021 – Present\nYoung Scholars Initiative, Student Member · 2019 – Present\nBard College Economics Club, President · 2020 – 2022"
+    "text": "Leadership & Activities\nNew York Southeast Asia Society · Member · 2021–Present\nYoung Scholars Initiative · Student Member · 2019–Present\nBard College Economics Club · President · 2020–2022"
   },
   {
     "objectID": "research.html",
