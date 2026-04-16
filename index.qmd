@@ -29,7 +29,7 @@ title: ""
       <a href="mailto:elicheamshapiro@gmail.com" class="about-link">
         <i class="bi bi-envelope-fill"></i> elicheamshapiro@gmail.com
       </a>
-      <a href="https://www.linkedin.com/in/elicheamshapiro" target="_blank" class="about-link">
+      <a href="https://www.linkedin.com/in/eli-cheam-shapiro" target="_blank" class="about-link">
         <i class="bi bi-linkedin"></i> LinkedIn
       </a>
       <a href="cv.qmd" class="about-link">
