@@ -1,0 +1,93 @@
+---
+title: "Curriculum Vitae"
+---
+
+```{=html}
+<p style="margin-bottom: 1.5rem;">
+  <a href="assets/cv.pdf" class="btn btn-outline-dark btn-sm" download>
+    <i class="bi bi-download"></i> Download PDF
+  </a>
+</p>
+```
+
+## Eli Cheam Shapiro, MRes
+
+elicheamshapiro@gmail.com | [LinkedIn](https://www.linkedin.com/in/elicheamshapiro) | Citizenship: United States
+
+---
+
+## Education
+
+**Institut d'Études Politiques de Paris (Sciences Po)** · Paris, France
+*Master of Research in Economics* · August 2023 – June 2025
+GPA: 4.0/4.0 (Converted by Institution)
+
+**Bard College** · Annandale-on-Hudson, United States
+*Bachelor of Arts in Economics* · August 2019 – May 2023
+GPA: 3.8/4.0
+Awards: Levy Economics Institute Prize (2023); OSUN Certificate in Public Policy and Economic Analysis (2023); Amicus Foundation Scholarship (2021)
+
+---
+
+## Skills & Coursework
+
+**Technical Skills:** R; STATA; Python; Julia; LaTeX; Salesforce; Microsoft Office; Optical Character Recognition; Census Matching; Panel and Cross-sectional Econometrics; DSGE Modeling; Randomized Control Trials
+
+**Languages:** English (Native); French (B1); Khmer/Cambodian (Basic Work Proficiency)
+
+**Graduate Coursework:** Advanced Macroeconomics I, II, III; Advanced Microeconomics I, II; Advanced Econometrics I, II, III; Development Economics; Public Economics; Economic History; Computational Economics; Political Economy; International Economics
+
+---
+
+## Professional Experience
+
+**Penn Wharton Budget Model** · Philadelphia, United States
+*Analyst (Full-Time)* · June 2026 – Present
+
+**Department of Economics, Trinity College Dublin** · Dublin, Ireland
+*Predoctoral Research Assistant (Full-Time)* · September 2025 – June 2026
+
+- Consulted on data processing and econometric methodology for research papers
+- Developed OCR (Python), census matching and cleaning (STATA) models to generate a large database of Russian Empire administrative and business surveys
+- Built webscraping models (Python) to construct databases of 100,000 foreigners in pre-revolution Russia and to extract tables and graphs from House Commons Papers
+- Developed VLM- and LLM-based OCR pipelines to convert historical PDFs into usable data
+- Tested and improved OCR models on the 1845–1914 Thom's Street Directory reports from an HPC
+
+**The Economic Journal, Royal Economic Society** · Paris, France
+*Replicator (Part-Time)* · August 2024 – June 2025
+
+- Replicated journal paper submissions under the supervision of Dr. Florian Oswald
+- Identified errors in submission code and provided recommendations
+
+**Kiel Institute for the World Economy** · Remote
+*Research Intern (Full-Time)* · July 2024 – September 2024
+
+- Supported research by Dr. Christoph Trebesch and Dr. Johannes Marzian on militarization, public finance, and geopolitics; contributed to a working paper
+- Collected, cleaned, and analyzed historical public finance data for 20+ advanced economies (1870–2020) in R and STATA
+- Produced 200+ visualizations for exploratory analysis
+
+**Ceres, Inc.** · Remote
+*Financial Regulation Intern (Full-Time)* · June 2023 – August 2023
+
+- Produced reports on international, federal, and state financial regulation policies
+- Wrote an 11-page internal report on improving the Federal Reserve's climate-risk scenario analysis
+
+**Bard College Department of Economics** · Annandale, United States
+*Economics Tutor (Part-Time)* · March 2022 – May 2023
+
+**Mekong Strategic Group** · Phnom Penh, Cambodia
+*Analytics Intern (Full-Time)* · June 2022 – August 2022
+
+**OSUN – Economic Democracy Initiative** · Annandale, United States
+*Student Fellow (Full-Time)* · June 2021 – August 2021
+
+**Office of Illinois State Senator Heather Steans** · Chicago, United States
+*Summer Intern (Full-Time)* · June 2020 – August 2020
+
+---
+
+## Leadership & Activities
+
+- New York Southeast Asia Society, Member · 2021 – Present
+- Young Scholars Initiative, Student Member · 2019 – Present
+- Bard College Economics Club, President · 2020 – 2022

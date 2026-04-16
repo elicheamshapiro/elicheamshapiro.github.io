@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "cv.html#eli-cheam-shapiro-mres",
+    "href": "cv.html#eli-cheam-shapiro-mres",
+    "title": "Curriculum Vitae",
+    "section": "Eli Cheam Shapiro, MRes",
+    "text": "Eli Cheam Shapiro, MRes\nelicheamshapiro@gmail.com | LinkedIn | Citizenship: United States"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nInstitut d’Études Politiques de Paris (Sciences Po) · Paris, France Master of Research in Economics · August 2023 – June 2025 GPA: 4.0/4.0 (Converted by Institution)\nBard College · Annandale-on-Hudson, United States Bachelor of Arts in Economics · August 2019 – May 2023 GPA: 3.8/4.0 Awards: Levy Economics Institute Prize (2023); OSUN Certificate in Public Policy and Economic Analysis (2023); Amicus Foundation Scholarship (2021)"
+  },
+  {
+    "objectID": "cv.html#skills-coursework",
+    "href": "cv.html#skills-coursework",
+    "title": "Curriculum Vitae",
+    "section": "Skills & Coursework",
+    "text": "Skills & Coursework\nTechnical Skills: R; STATA; Python; Julia; LaTeX; Salesforce; Microsoft Office; Optical Character Recognition; Census Matching; Panel and Cross-sectional Econometrics; DSGE Modeling; Randomized Control Trials\nLanguages: English (Native); French (B1); Khmer/Cambodian (Basic Work Proficiency)\nGraduate Coursework: Advanced Macroeconomics I, II, III; Advanced Microeconomics I, II; Advanced Econometrics I, II, III; Development Economics; Public Economics; Economic History; Computational Economics; Political Economy; International Economics"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nPenn Wharton Budget Model · Philadelphia, United States Analyst (Full-Time) · June 2026 – Present\nDepartment of Economics, Trinity College Dublin · Dublin, Ireland Predoctoral Research Assistant (Full-Time) · September 2025 – June 2026\n\nConsulted on data processing and econometric methodology for research papers\nDeveloped OCR (Python), census matching and cleaning (STATA) models to generate a large database of Russian Empire administrative and business surveys\nBuilt webscraping models (Python) to construct databases of 100,000 foreigners in pre-revolution Russia and to extract tables and graphs from House Commons Papers\nDeveloped VLM- and LLM-based OCR pipelines to convert historical PDFs into usable data\nTested and improved OCR models on the 1845–1914 Thom’s Street Directory reports from an HPC\n\nThe Economic Journal, Royal Economic Society · Paris, France Replicator (Part-Time) · August 2024 – June 2025\n\nReplicated journal paper submissions under the supervision of Dr. Florian Oswald\nIdentified errors in submission code and provided recommendations\n\nKiel Institute for the World Economy · Remote Research Intern (Full-Time) · July 2024 – September 2024\n\nSupported research by Dr. Christoph Trebesch and Dr. Johannes Marzian on militarization, public finance, and geopolitics; contributed to a working paper\nCollected, cleaned, and analyzed historical public finance data for 20+ advanced economies (1870–2020) in R and STATA\nProduced 200+ visualizations for exploratory analysis\n\nCeres, Inc. · Remote Financial Regulation Intern (Full-Time) · June 2023 – August 2023\n\nProduced reports on international, federal, and state financial regulation policies\nWrote an 11-page internal report on improving the Federal Reserve’s climate-risk scenario analysis\n\nBard College Department of Economics · Annandale, United States Economics Tutor (Part-Time) · March 2022 – May 2023\nMekong Strategic Group · Phnom Penh, Cambodia Analytics Intern (Full-Time) · June 2022 – August 2022\nOSUN – Economic Democracy Initiative · Annandale, United States Student Fellow (Full-Time) · June 2021 – August 2021\nOffice of Illinois State Senator Heather Steans · Chicago, United States Summer Intern (Full-Time) · June 2020 – August 2020"
+  },
+  {
+    "objectID": "cv.html#leadership-activities",
+    "href": "cv.html#leadership-activities",
+    "title": "Curriculum Vitae",
+    "section": "Leadership & Activities",
+    "text": "Leadership & Activities\n\nNew York Southeast Asia Society, Member · 2021 – Present\nYoung Scholars Initiative, Student Member · 2019 – Present\nBard College Economics Club, President · 2020 – 2022"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & Experience",
+    "section": "",
+    "text": "Analyst · June 2026 – Present\nFiscal and economic policy analysis at one of the nation’s leading nonpartisan budget modeling institutions.\n\n\n\n\nPredoctoral Research Assistant · September 2025 – June 2026\n\nConsulted on data processing and econometric methodology for research papers\nDeveloped OCR (Python), census matching and cleaning (STATA) models to extract data from and generate a large database of Russian Empire administrative and business surveys\nBuilt a webscraping model (Python) to collect and construct a database of economic and social characteristics of 100,000 foreigners in pre-revolution Russia\nBuilt a webscraping model (Python) to locate and collect tables and graphs from House Commons Papers and Command Papers, then developed a VLM- and LLM-based OCR pipeline to convert these PDFs into usable data\nTested, ran, and improved OCR models (Python) on the 1845–1914 Thom’s Street Directory reports remotely from an HPC using a combination of VLMs and LLMs to produce usable digitized economic data\n\n\n\n\n\nReplicator · August 2024 – June 2025\n\nReplicated journal paper submissions to The Economic Journal under the supervision of Dr. Florian Oswald\nIdentified errors in submission code and provided recommendations to fix them\n\n\n\n\n\nResearch Intern · July 2024 – September 2024\n\nSupported the research of Dr. Christoph Trebesch and Dr. Johannes Marzian on militarization, social welfare, public finance, and geopolitics, contributing to the release of a working paper\nCollected, cleaned, and analyzed large datasets on macroeconomic historical public finance for over 20 advanced economies spanning 1870–2020 in R and STATA\nDeveloped empirical identification methodology and produced over 200 visualizations for exploratory analysis\n\n\n\n\n\nFinancial Regulation Intern · June 2023 – August 2023\n\nProduced reports on new international, federal, and state financial regulation policies\nWrote an 11-page internal report on improving the Federal Reserve’s climate-risk scenario analysis, supporting Ceres’s feedback submission to the Federal Reserve’s Climate Scenario Analysis draft/pilot request\n\n\n\n\n\nEconomics Tutor · March 2022 – May 2023\n\nProvided student support for class assignments, coding, and economics course material\nLed revision of homework for macroeconomics, microeconomics, and econometrics\n\n\n\n\n\nAnalytics Intern · June 2022 – August 2022\n\nResearched macroeconomic, banking and financial sector, and industry data in Southeast Asia\nPerformed balance sheet and risk analysis on client firms and their competitors\nAided in data collection and visualization for industry and country reports\n\n\n\n\n\nStudent Fellow · June 2021 – August 2021\n\nResearched and analyzed quantitative unemployment data on the low-income City of Newburgh, New York\nDesigned and drafted a job guarantee proposal for the City of Newburgh, NY to accompany President Biden’s Civilian Climate Corps proposal\n\n\n\n\n\nSummer Intern · June 2020 – August 2020\n\nResearched and presented qualitative and quantitative demographic, financial, and economic data for the City of Chicago on poverty, COVID-19, minority-owned business, and ethics reform\nResponded to constituent emails and inquiries about local and state policy"
+  },
+  {
+    "objectID": "research.html#professional-experience",
+    "href": "research.html#professional-experience",
+    "title": "Research & Experience",
+    "section": "",
+    "text": "Analyst · June 2026 – Present\nFiscal and economic policy analysis at one of the nation’s leading nonpartisan budget modeling institutions.\n\n\n\n\nPredoctoral Research Assistant · September 2025 – June 2026\n\nConsulted on data processing and econometric methodology for research papers\nDeveloped OCR (Python), census matching and cleaning (STATA) models to extract data from and generate a large database of Russian Empire administrative and business surveys\nBuilt a webscraping model (Python) to collect and construct a database of economic and social characteristics of 100,000 foreigners in pre-revolution Russia\nBuilt a webscraping model (Python) to locate and collect tables and graphs from House Commons Papers and Command Papers, then developed a VLM- and LLM-based OCR pipeline to convert these PDFs into usable data\nTested, ran, and improved OCR models (Python) on the 1845–1914 Thom’s Street Directory reports remotely from an HPC using a combination of VLMs and LLMs to produce usable digitized economic data\n\n\n\n\n\nReplicator · August 2024 – June 2025\n\nReplicated journal paper submissions to The Economic Journal under the supervision of Dr. Florian Oswald\nIdentified errors in submission code and provided recommendations to fix them\n\n\n\n\n\nResearch Intern · July 2024 – September 2024\n\nSupported the research of Dr. Christoph Trebesch and Dr. Johannes Marzian on militarization, social welfare, public finance, and geopolitics, contributing to the release of a working paper\nCollected, cleaned, and analyzed large datasets on macroeconomic historical public finance for over 20 advanced economies spanning 1870–2020 in R and STATA\nDeveloped empirical identification methodology and produced over 200 visualizations for exploratory analysis\n\n\n\n\n\nFinancial Regulation Intern · June 2023 – August 2023\n\nProduced reports on new international, federal, and state financial regulation policies\nWrote an 11-page internal report on improving the Federal Reserve’s climate-risk scenario analysis, supporting Ceres’s feedback submission to the Federal Reserve’s Climate Scenario Analysis draft/pilot request\n\n\n\n\n\nEconomics Tutor · March 2022 – May 2023\n\nProvided student support for class assignments, coding, and economics course material\nLed revision of homework for macroeconomics, microeconomics, and econometrics\n\n\n\n\n\nAnalytics Intern · June 2022 – August 2022\n\nResearched macroeconomic, banking and financial sector, and industry data in Southeast Asia\nPerformed balance sheet and risk analysis on client firms and their competitors\nAided in data collection and visualization for industry and country reports\n\n\n\n\n\nStudent Fellow · June 2021 – August 2021\n\nResearched and analyzed quantitative unemployment data on the low-income City of Newburgh, New York\nDesigned and drafted a job guarantee proposal for the City of Newburgh, NY to accompany President Biden’s Civilian Climate Corps proposal\n\n\n\n\n\nSummer Intern · June 2020 – August 2020\n\nResearched and presented qualitative and quantitative demographic, financial, and economic data for the City of Chicago on poverty, COVID-19, minority-owned business, and ethics reform\nResponded to constituent emails and inquiries about local and state policy"
+  },
+  {
+    "objectID": "research.html#leadership-activities",
+    "href": "research.html#leadership-activities",
+    "title": "Research & Experience",
+    "section": "Leadership & Activities",
+    "text": "Leadership & Activities\n\n\n\nOrganization\nRole\nYears\n\n\n\n\nNew York Southeast Asia Society\nMember\n2021 – Present\n\n\nYoung Scholars Initiative\nStudent Member\n2019 – Present\n\n\nBard College Economics Club\nPresident\n2020 – 2022"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Eli Cheam Shapiro",
+    "section": "",
+    "text": "Eli Cheam Shapiro\n    Analyst, Penn Wharton Budget Model\n    MRes in Economics · Sciences Po Paris\n\n    \n      I am an economist and data analyst at the\n      Penn Wharton Budget Model,\n      where I work on fiscal policy analysis and economic modeling.\n      My work sits at the intersection of empirical economics, public finance, and data science.\n    \n\n    \n      Prior to PWBM, I worked as a Predoctoral Research Assistant at Trinity College Dublin,\n      where I built OCR and webscraping pipelines to digitize large-scale historical economic datasets\n      from the Russian Empire and British Parliament. I hold a Master of Research in Economics from\n      Sciences Po Paris (GPA: 4.0) and a BA in Economics from Bard College (GPA: 3.8).\n    \n\n    \n      My research interests span macroeconomics, public finance, economic history, and\n      computational methods. I am proficient in R, Python, STATA, and Julia.\n    \n\n    \n      \n         elicheamshapiro@gmail.com\n      \n      \n         LinkedIn\n      \n      \n         CV"
+  }
+]

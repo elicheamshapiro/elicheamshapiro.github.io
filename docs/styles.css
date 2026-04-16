@@ -1,0 +1,128 @@
+/* ── General ── */
+body {
+  font-family: "Georgia", serif;
+  color: #1a1a1a;
+}
+
+.navbar {
+  background-color: #1a1a2e !important;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #e0e0e0 !important;
+}
+
+.nav-link:hover {
+  color: #ffffff !important;
+}
+
+/* ── Home / About section ── */
+.about-section {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 3rem;
+  margin-top: 3rem;
+  max-width: 960px;
+}
+
+.about-text {
+  flex: 1;
+}
+
+.about-name {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-bottom: 0.2rem;
+  color: #1a1a2e;
+}
+
+.about-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #1a3a6b;
+  margin-bottom: 0.1rem;
+}
+
+.about-subtitle {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 1.4rem;
+}
+
+.about-bio {
+  font-size: 1rem;
+  line-height: 1.75;
+  margin-bottom: 1rem;
+  color: #2a2a2a;
+}
+
+.about-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.about-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.45rem 1rem;
+  border: 1.5px solid #1a3a6b;
+  border-radius: 4px;
+  color: #1a3a6b;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.about-link:hover {
+  background-color: #1a3a6b;
+  color: #fff;
+}
+
+/* ── Profile photo ── */
+.about-photo {
+  flex-shrink: 0;
+  width: 260px;
+}
+
+.profile-photo {
+  width: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* ── Research page ── */
+h3 {
+  margin-top: 2rem;
+  color: #1a1a2e;
+  font-size: 1.1rem;
+}
+
+hr {
+  border-top: 1px solid #ddd;
+  margin: 1.5rem 0;
+}
+
+/* ── CV page ── */
+.cv-section h2 {
+  border-bottom: 2px solid #1a1a2e;
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .about-section {
+    flex-direction: column-reverse;
+  }
+  .about-photo {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+}

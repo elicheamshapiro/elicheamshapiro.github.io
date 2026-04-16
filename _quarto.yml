@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Eli Cheam Shapiro"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research & Experience
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:elicheamshapiro@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/elicheamshapiro
+        target: _blank
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
