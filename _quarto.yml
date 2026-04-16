@@ -10,8 +10,6 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: cv.qmd
-        text: CV
     right:
       - icon: envelope
         href: mailto:elicheamshapiro@gmail.com

@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Eli Cheam Shapiro",
     "section": "",
-    "text": "Download PDF"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\nInstitut d’Études Politiques de Paris (Sciences Po) · Paris, France Master of Research in Economics · 2023–2025\nBard College · Annandale-on-Hudson, United States Bachelor of Arts in Economics · 2019–2023"
-  },
-  {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "CV",
-    "section": "Experience",
-    "text": "Experience\nPenn Wharton Budget Model · Philadelphia, United States Analyst · June 2026–Present\nDepartment of Economics, Trinity College Dublin · Dublin, Ireland Predoctoral Research Assistant · 2025–2026\nThe Economic Journal, Royal Economic Society · Paris, France Replicator · 2024–2025\nKiel Institute for the World Economy · Remote Research Intern · 2024\nCeres, Inc. · Remote Financial Regulation Intern · 2023\nBard College Department of Economics · Annandale, United States Economics Tutor · 2022–2023\nMekong Strategic Group · Phnom Penh, Cambodia Analytics Intern · 2022\nOSUN – Economic Democracy Initiative · Annandale, United States Student Fellow · 2021\nOffice of Illinois State Senator Heather Steans · Chicago, United States Summer Intern · 2020"
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "CV",
-    "section": "Skills",
-    "text": "Skills\nTechnical: R, STATA, Python, Julia, LaTeX, Salesforce, Microsoft Office\nMethods: Panel and Cross-sectional Econometrics, DSGE Modeling, Randomized Control Trials, Optical Character Recognition, Census Matching\nLanguages: English (Native), French (B1), Khmer/Cambodian (Basic Work Proficiency)"
-  },
-  {
-    "objectID": "cv.html#coursework",
-    "href": "cv.html#coursework",
-    "title": "CV",
-    "section": "Coursework",
-    "text": "Coursework\nAdvanced Macroeconomics I, II, III · Advanced Microeconomics I, II · Advanced Econometrics I, II, III · Development Economics · Public Economics · Economic History · Computational Economics · Political Economy · International Economics"
-  },
-  {
-    "objectID": "cv.html#leadership-activities",
-    "href": "cv.html#leadership-activities",
-    "title": "CV",
-    "section": "Leadership & Activities",
-    "text": "Leadership & Activities\nNew York Southeast Asia Society · Member · 2021–Present\nYoung Scholars Initiative · Student Member · 2019–Present\nBard College Economics Club · President · 2020–2022"
+    "text": "Eli Cheam Shapiro\n    Incoming Analyst, Penn Wharton Budget Model\n    MRes in Economics · Sciences Po Paris\n\n    \n      In June, I will be joining the\n      Penn Wharton Budget Model\n      as an analyst. My research interests are fiscal policy, public investment, and inequality.\n    \n\n    \n      Previously, I was a Predoctoral Research Assistant at Trinity College Dublin.\n      I hold an MRes in Economics from Sciences Po Paris\n      and a BA in Economics from Bard College.\n    \n\n    \n      I am proficient in R, Python, STATA, and Julia.\n    \n\n    \n      \n         elicheamshapiro@gmail.com\n      \n      \n         LinkedIn"
   },
   {
     "objectID": "research.html",
@@ -54,12 +19,5 @@
     "title": "Research",
     "section": "",
     "text": "I investigate whether renewable energy dependence can shield counties from higher energy prices stemming from exogenous oil price shocks."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Eli Cheam Shapiro",
-    "section": "",
-    "text": "Eli Cheam Shapiro\n    Incoming Analyst, Penn Wharton Budget Model\n    MRes in Economics · Sciences Po Paris\n\n    \n      In June, I will be joining the\n      Penn Wharton Budget Model\n      as an analyst. My research interests are fiscal policy, public investment, and inequality.\n    \n\n    \n      Previously, I was a Predoctoral Research Assistant at Trinity College Dublin.\n      I hold an MRes in Economics from Sciences Po Paris\n      and a BA in Economics from Bard College.\n    \n\n    \n      I am proficient in R, Python, STATA, and Julia.\n    \n\n    \n      \n         elicheamshapiro@gmail.com\n      \n      \n         LinkedIn\n      \n      \n         CV"
   }
 ]
