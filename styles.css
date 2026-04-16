@@ -8,7 +8,7 @@ body {
 }
 
 .navbar {
-  background-color: #011F5B !important;
+  background-color: #990000 !important;
 }
 
 .navbar-brand,
@@ -44,7 +44,7 @@ body {
 .about-title {
   font-size: 1.15rem;
   font-weight: 600;
-  color: #990000;
+  color: #011F5B;
   margin-bottom: 0.1rem;
 }
 
@@ -114,9 +114,9 @@ hr {
 .paper-btn {
   display: inline-block;
   padding: 0.2rem 0.6rem;
-  border: 1.5px solid #990000;
+  border: 1.5px solid #011F5B;
   border-radius: 4px;
-  color: #990000 !important;
+  color: #011F5B !important;
   text-decoration: none !important;
   font-size: 0.85rem;
   font-family: sans-serif;
@@ -126,7 +126,7 @@ hr {
 }
 
 .paper-btn:hover {
-  background-color: #990000;
+  background-color: #011F5B;
   color: #fff !important;
 }
 
