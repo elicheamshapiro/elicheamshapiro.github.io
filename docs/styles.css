@@ -100,12 +100,31 @@ body {
 h3 {
   margin-top: 2rem;
   color: #1a1a2e;
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 
 hr {
   border-top: 1px solid #ddd;
   margin: 1.5rem 0;
+}
+
+.paper-btn {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border: 1.5px solid #1a3a6b;
+  border-radius: 4px;
+  color: #1a3a6b !important;
+  text-decoration: none !important;
+  font-size: 0.85rem;
+  font-family: sans-serif;
+  margin-right: 0.3rem;
+  margin-bottom: 0.8rem;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.paper-btn:hover {
+  background-color: #1a3a6b;
+  color: #fff !important;
 }
 
 /* ── CV page ── */

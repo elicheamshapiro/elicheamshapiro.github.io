@@ -1,89 +1,23 @@
 ---
-title: "Research & Experience"
+title: "Research"
 ---
 
-## Professional Experience
+## Working papers
 
-### Penn Wharton Budget Model — Philadelphia, United States
-**Analyst** · June 2026 – Present
+### An Industry-Level Measure of Quality-Adjusted Human Capital in the European Union
 
-Fiscal and economic policy analysis at one of the nation's leading nonpartisan budget modeling institutions.
+*With [Juan Durán Vanegas](https://www.esri.ie/people/juan-duran-vanegas) and [Iulia Siedschlag](https://www.esri.ie/people/iulia-siedschlag). ESRI Working Paper No. 812, October 2025.*
 
----
+[[Paper]](#){.paper-btn} [[Policy brief]](#){.paper-btn}
 
-### Department of Economics, Trinity College Dublin — Dublin, Ireland
-**Predoctoral Research Assistant** · September 2025 – June 2026
-
-- Consulted on data processing and econometric methodology for research papers
-- Developed OCR (Python), census matching and cleaning (STATA) models to extract data from and generate a large database of Russian Empire administrative and business surveys
-- Built a webscraping model (Python) to collect and construct a database of economic and social characteristics of 100,000 foreigners in pre-revolution Russia
-- Built a webscraping model (Python) to locate and collect tables and graphs from House Commons Papers and Command Papers, then developed a VLM- and LLM-based OCR pipeline to convert these PDFs into usable data
-- Tested, ran, and improved OCR models (Python) on the 1845–1914 Thom's Street Directory reports remotely from an HPC using a combination of VLMs and LLMs to produce usable digitized economic data
+This paper examines the role of human capital in driving labour-productivity growth across industries in the European Union and the United Kingdom from 2010 to 2021. Building on Égert et al. (2022), we introduce an industry-level quality-adjusted human capital (QAHC) measure that combines the quantity of education with its quality, drawing on test-score data from the OECD Programme for International Student Assessment (PISA) and Programme for the International Assessment of Adult Competencies (PIAAC), mean years of schooling, and industry employment composition from EU KLEMS and INTANProd. Estimated within a Stochastic Frontier framework, the measure yields plausible output elasticities and is statistically associated with labour-productivity growth, particularly in goods-producing industries. These results stand in contrast to those obtained using conventional education-attainment proxies, which fail to capture a comparable productivity link.
 
 ---
 
-### The Economic Journal, Royal Economic Society — Paris, France
-**Replicator** · August 2024 – June 2025
+## Theses
 
-- Replicated journal paper submissions to *The Economic Journal* under the supervision of Dr. Florian Oswald
-- Identified errors in submission code and provided recommendations to fix them
+### The Impact of Light Rail Transit Extensions on Residential Property Prices: Evidence from Dublin's Luas Cross City Project
 
----
+*Master's thesis, Sciences Po Paris, 2025.*
 
-### Kiel Institute for the World Economy — Remote
-**Research Intern** · July 2024 – September 2024
-
-- Supported the research of Dr. Christoph Trebesch and Dr. Johannes Marzian on militarization, social welfare, public finance, and geopolitics, contributing to the release of a working paper
-- Collected, cleaned, and analyzed large datasets on macroeconomic historical public finance for over 20 advanced economies spanning 1870–2020 in R and STATA
-- Developed empirical identification methodology and produced over 200 visualizations for exploratory analysis
-
----
-
-### Ceres, Inc. — Remote
-**Financial Regulation Intern** · June 2023 – August 2023
-
-- Produced reports on new international, federal, and state financial regulation policies
-- Wrote an 11-page internal report on improving the Federal Reserve's climate-risk scenario analysis, supporting Ceres's feedback submission to the Federal Reserve's Climate Scenario Analysis draft/pilot request
-
----
-
-### Bard College Department of Economics — Annandale, United States
-**Economics Tutor** · March 2022 – May 2023
-
-- Provided student support for class assignments, coding, and economics course material
-- Led revision of homework for macroeconomics, microeconomics, and econometrics
-
----
-
-### Mekong Strategic Group — Phnom Penh, Cambodia
-**Analytics Intern** · June 2022 – August 2022
-
-- Researched macroeconomic, banking and financial sector, and industry data in Southeast Asia
-- Performed balance sheet and risk analysis on client firms and their competitors
-- Aided in data collection and visualization for industry and country reports
-
----
-
-### OSUN – Economic Democracy Initiative — Annandale, United States
-**Student Fellow** · June 2021 – August 2021
-
-- Researched and analyzed quantitative unemployment data on the low-income City of Newburgh, New York
-- Designed and drafted a job guarantee proposal for the City of Newburgh, NY to accompany President Biden's Civilian Climate Corps proposal
-
----
-
-### Office of Illinois State Senator Heather Steans — Chicago, United States
-**Summer Intern** · June 2020 – August 2020
-
-- Researched and presented qualitative and quantitative demographic, financial, and economic data for the City of Chicago on poverty, COVID-19, minority-owned business, and ethics reform
-- Responded to constituent emails and inquiries about local and state policy
-
----
-
-## Leadership & Activities
-
-| Organization | Role | Years |
-|---|---|---|
-| New York Southeast Asia Society | Member | 2021 – Present |
-| Young Scholars Initiative | Student Member | 2019 – Present |
-| Bard College Economics Club | President | 2020 – 2022 |
+[[Thesis]](#){.paper-btn}
