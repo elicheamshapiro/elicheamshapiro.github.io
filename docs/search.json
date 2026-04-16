@@ -46,21 +46,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "With Juan Durán Vanegas and Iulia Siedschlag. ESRI Working Paper No. 812, October 2025.\n[Paper] [Policy brief]\nThis paper examines the role of human capital in driving labour-productivity growth across industries in the European Union and the United Kingdom from 2010 to 2021. Building on Égert et al. (2022), we introduce an industry-level quality-adjusted human capital (QAHC) measure that combines the quantity of education with its quality, drawing on test-score data from the OECD Programme for International Student Assessment (PISA) and Programme for the International Assessment of Adult Competencies (PIAAC), mean years of schooling, and industry employment composition from EU KLEMS and INTANProd. Estimated within a Stochastic Frontier framework, the measure yields plausible output elasticities and is statistically associated with labour-productivity growth, particularly in goods-producing industries. These results stand in contrast to those obtained using conventional education-attainment proxies, which fail to capture a comparable productivity link."
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "",
-    "text": "With Juan Durán Vanegas and Iulia Siedschlag. ESRI Working Paper No. 812, October 2025.\n[Paper] [Policy brief]\nThis paper examines the role of human capital in driving labour-productivity growth across industries in the European Union and the United Kingdom from 2010 to 2021. Building on Égert et al. (2022), we introduce an industry-level quality-adjusted human capital (QAHC) measure that combines the quantity of education with its quality, drawing on test-score data from the OECD Programme for International Student Assessment (PISA) and Programme for the International Assessment of Adult Competencies (PIAAC), mean years of schooling, and industry employment composition from EU KLEMS and INTANProd. Estimated within a Stochastic Frontier framework, the measure yields plausible output elasticities and is statistically associated with labour-productivity growth, particularly in goods-producing industries. These results stand in contrast to those obtained using conventional education-attainment proxies, which fail to capture a comparable productivity link."
+    "text": "I investigate whether renewable energy dependence can shield counties from higher energy prices stemming from exogenous oil price shocks."
   },
   {
     "objectID": "research.html#work-in-progress",
     "href": "research.html#work-in-progress",
     "title": "Research",
-    "section": "Work in progress",
-    "text": "Work in progress\n\nOil Price Shocks, Renewables, and Local Energy Prices\nI investigate whether renewable energy dependence can shield counties from higher energy prices stemming from exogenous oil price shocks."
+    "section": "",
+    "text": "I investigate whether renewable energy dependence can shield counties from higher energy prices stemming from exogenous oil price shocks."
   },
   {
     "objectID": "index.html",
