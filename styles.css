@@ -1,3 +1,6 @@
+/* ── Penn Colors ── */
+/* Penn Blue: #011F5B | Penn Red: #990000 */
+
 /* ── General ── */
 body {
   font-family: "Georgia", serif;
@@ -5,7 +8,7 @@ body {
 }
 
 .navbar {
-  background-color: #1a1a2e !important;
+  background-color: #011F5B !important;
 }
 
 .navbar-brand,
@@ -35,13 +38,13 @@ body {
   font-size: 2.4rem;
   font-weight: 700;
   margin-bottom: 0.2rem;
-  color: #1a1a2e;
+  color: #011F5B;
 }
 
 .about-title {
   font-size: 1.15rem;
   font-weight: 600;
-  color: #1a3a6b;
+  color: #990000;
   margin-bottom: 0.1rem;
 }
 
@@ -70,16 +73,16 @@ body {
   align-items: center;
   gap: 0.4rem;
   padding: 0.45rem 1rem;
-  border: 1.5px solid #1a3a6b;
+  border: 1.5px solid #011F5B;
   border-radius: 4px;
-  color: #1a3a6b;
+  color: #011F5B;
   text-decoration: none;
   font-size: 0.9rem;
   transition: background-color 0.2s, color 0.2s;
 }
 
 .about-link:hover {
-  background-color: #1a3a6b;
+  background-color: #011F5B;
   color: #fff;
 }
 
@@ -99,7 +102,7 @@ body {
 /* ── Research page ── */
 h3 {
   margin-top: 2rem;
-  color: #1a1a2e;
+  color: #011F5B;
   font-size: 1.15rem;
 }
 
@@ -111,9 +114,9 @@ hr {
 .paper-btn {
   display: inline-block;
   padding: 0.2rem 0.6rem;
-  border: 1.5px solid #1a3a6b;
+  border: 1.5px solid #990000;
   border-radius: 4px;
-  color: #1a3a6b !important;
+  color: #990000 !important;
   text-decoration: none !important;
   font-size: 0.85rem;
   font-family: sans-serif;
@@ -123,15 +126,8 @@ hr {
 }
 
 .paper-btn:hover {
-  background-color: #1a3a6b;
+  background-color: #990000;
   color: #fff !important;
-}
-
-/* ── CV page ── */
-.cv-section h2 {
-  border-bottom: 2px solid #1a1a2e;
-  padding-bottom: 0.3rem;
-  margin-top: 2rem;
 }
 
 /* ── Responsive ── */
