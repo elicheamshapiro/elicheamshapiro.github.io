@@ -12,11 +12,11 @@ title: ""
     <p class="about-bio">
       In June, I will be joining the
       <a href="https://budgetmodel.wharton.upenn.edu/" target="_blank">Penn Wharton Budget Model</a>
-      as an analyst. My research interests are fiscal policy, public investment, and inequality.
+      as an analyst. My research is on public finance, inequality, and political economy, with a special focus on the distributional impacts of fiscal policy and public investment.
     </p>
 
     <p class="about-bio">
-      Previously, I was a Predoctoral Research Assistant at Trinity College Dublin.
+      Previously, I was a predoctoral research assistant at Trinity College Dublin.
       I hold an MRes in Economics from Sciences Po Paris
       and a BA in Economics from Bard College.
     </p>

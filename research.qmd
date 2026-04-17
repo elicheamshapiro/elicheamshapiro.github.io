@@ -4,6 +4,6 @@ title: "Research"
 
 ## Work in progress
 
-### Oil Price Shocks, Renewables, and Local Energy Prices
+### Insulated by Renewables: Local Energy Price Responses to the Russia-Ukraine War
 
-I investigate whether renewable energy dependence can shield counties from higher energy prices stemming from exogenous oil price shocks.
+I investigate whether renewable energy penetration can shield US counties from higher energy prices stemming from exogenous oil price shocks, using the Russia-Ukraine War as a natural experiment.
