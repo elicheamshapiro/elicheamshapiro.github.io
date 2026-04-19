@@ -11,12 +11,18 @@ body {
   background-color: #990000 !important;
 }
 
+.navbar-nav.navbar-nav-scroll {
+  overflow: visible !important;
+  flex-wrap: nowrap !important;
+}
+
 .navbar-brand,
 .nav-link {
   color: #e0e0e0 !important;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.nav-link.active {
   color: #ffffff !important;
 }
 
