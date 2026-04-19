@@ -1,0 +1,65 @@
+---
+title: "CV"
+---
+
+```{=html}
+<p style="margin-bottom: 2rem;">
+  <a href="assets/cv.pdf" class="about-link" download>
+    <i class="bi bi-download"></i> Download PDF
+  </a>
+</p>
+```
+
+## Education
+
+**Institut d'Études Politiques de Paris (Sciences Po)** · Paris, France
+*Master of Research in Economics* · 2023–2025
+
+**Bard College** · Annandale-on-Hudson, United States
+*Bachelor of Arts in Economics* · 2019–2023
+Awards: Levy Economics Institute Prize (2023); OSUN Certificate in Public Policy and Economic Analysis (2023); Amicus Foundation Scholarship (2021)
+
+---
+
+## Experience
+
+**Penn Wharton Budget Model** · Philadelphia, United States
+*Analyst* · June 2026–Present
+
+**Department of Economics, Trinity College Dublin** · Dublin, Ireland
+*Predoctoral Research Assistant* · 2025–2026
+
+**The Economic Journal, Royal Economic Society** · Paris, France
+*Replicator* · 2024–2025
+
+---
+
+## Internships
+
+**Kiel Institute for the World Economy** · *Research Intern* · 2024
+
+**Ceres, Inc.** · *Financial Regulation Intern* · 2023
+
+**Mekong Strategic Group** · Phnom Penh, Cambodia · *Analytics Intern* · 2022
+
+**OSUN – Economic Democracy Initiative** · *Student Fellow* · 2022
+
+**Office of Illinois State Senator Heather Steans** · Chicago, United States · *Summer Intern* · 2020
+
+---
+
+## Skills
+
+**Technical:** R, STATA, Python, Julia, LaTeX, Salesforce, Microsoft Office, Optical Character Recognition, Census Matching, Panel and Cross-sectional Econometrics, DSGE Modeling
+
+**Languages:** English (Native), French (B1), Khmer/Cambodian (Basic Work Proficiency)
+
+---
+
+## Leadership & Activities
+
+**New York Southeast Asia Society** · Member · 2021–Present
+
+**Young Scholars Initiative** · Student Member · 2019–Present
+
+**Bard College Economics Club** · President · 2020–2022
