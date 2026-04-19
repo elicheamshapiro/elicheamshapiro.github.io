@@ -137,6 +137,38 @@ hr {
 }
 
 
+/* ── CV entries ── */
+.cv-entry {
+  margin-bottom: 1.1rem;
+}
+
+.cv-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1.5rem;
+}
+
+.cv-org {
+  font-weight: 700;
+}
+
+.cv-date {
+  white-space: nowrap;
+  flex-shrink: 0;
+  color: #333;
+}
+
+.cv-role {
+  font-style: italic;
+  margin-top: 0.1rem;
+}
+
+.cv-detail {
+  margin-top: 0.15rem;
+  color: #333;
+}
+
 /* ── Responsive ── */
 @media (max-width: 768px) {
   .about-section {
