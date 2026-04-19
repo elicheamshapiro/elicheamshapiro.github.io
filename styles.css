@@ -139,7 +139,7 @@ hr {
 
 /* ── CV entries ── */
 .cv-entry {
-  margin-bottom: 1.1rem;
+  margin-bottom: 1.6rem;
 }
 
 .cv-header {
@@ -150,7 +150,8 @@ hr {
 }
 
 .cv-org {
-  font-weight: 700;
+  font-weight: 800;
+  color: #1a1a1a;
 }
 
 .cv-date {
@@ -161,11 +162,11 @@ hr {
 
 .cv-role {
   font-style: italic;
-  margin-top: 0.1rem;
+  margin-top: 0.2rem;
 }
 
 .cv-detail {
-  margin-top: 0.15rem;
+  margin-top: 0.2rem;
   color: #333;
 }
 
