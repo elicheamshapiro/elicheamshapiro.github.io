@@ -4,7 +4,7 @@ title: "Research"
 
 ## Work in progress
 
-### Do Renewables Dampen Energy Price Shocks? County-Level Evidence from the Russia-Ukraine War
+### Do Renewables Dampen Energy Price Shocks? Utility-Level Evidence from the Russia-Ukraine War
 
 I investigate whether renewable energy penetration shields US counties from higher energy prices stemming from exogenous oil price shocks, using the Russia-Ukraine War as a natural experiment.
 
