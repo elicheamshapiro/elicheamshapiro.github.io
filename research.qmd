@@ -8,6 +8,8 @@ title: "Research"
 
 I investigate whether renewable energy penetration shields US counties from higher energy prices stemming from exogenous oil price shocks, using the Russia-Ukraine War as a natural experiment.
 
+### The Political Economy of Federal-State Tax Conformity
+
 ---
 
 ## Theses
