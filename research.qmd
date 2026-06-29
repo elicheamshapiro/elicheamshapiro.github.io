@@ -4,11 +4,9 @@ title: "Research"
 
 ## Work in progress
 
-### Do Renewables Dampen Energy Price Shocks? Utility-Level Evidence from the Russia-Ukraine War
+### The Cambodia Historical Data Bank
 
-I investigate whether renewable energy penetration shields US counties from higher energy prices stemming from exogenous oil price shocks, using the Russia-Ukraine War as a natural experiment.
-
-### The Political Economy of Federal-State Tax Conformity
+I am building a publicly available historical databank for Cambodia covering the period before, during, and after the Khmer Rouge. The goal is to compile, digitize, and harmonize administrative, demographic, and economic records into usable datasets that can support historical and social scientific research on one of the twentieth century's most devastating humanitarian crises.
 
 ### Autocrats Before Autocracy: A Non-Tautological Measure of Executive Autocratic Tendencies
 
