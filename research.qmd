@@ -2,24 +2,92 @@
 title: "Research"
 ---
 
-## Work in progress
+```{=html}
+<style>
+details.paper {
+  margin-bottom: 1.4rem;
+}
+details.paper summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+details.paper summary::-webkit-details-marker { display: none; }
+details.paper summary::before {
+  content: "▶";
+  font-size: 0.65rem;
+  color: #011F5B;
+  flex-shrink: 0;
+  transition: transform 0.2s;
+  position: relative;
+  top: -0.05em;
+}
+details.paper[open] summary::before {
+  transform: rotate(90deg);
+}
+details.paper summary .paper-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #011F5B;
+}
+details.paper summary .paper-meta {
+  font-size: 0.9rem;
+  color: #555;
+  font-style: italic;
+}
+details.paper .paper-abstract {
+  margin-top: 0.75rem;
+  padding-left: 1.1rem;
+  border-left: 3px solid #e0e0e0;
+  color: #333;
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+</style>
 
-### The Cambodia Historical Data Bank
+<h2>Work in progress</h2>
 
-I am building a publicly available historical databank for Cambodia covering the period before, during, and after the Khmer Rouge. The goal is to compile, digitize, and harmonize administrative, demographic, and economic records into usable datasets that can support historical and social scientific research on one of the twentieth century's most devastating humanitarian crises.
+<details class="paper">
+  <summary>
+    <span class="paper-title">The Cambodia Historical Data Bank</span>
+  </summary>
+  <div class="paper-abstract">
+    I am building a publicly available historical databank for Cambodia covering the period before, during, and after the Khmer Rouge. The goal is to compile, digitize, and harmonize administrative, demographic, and economic records into usable datasets that can support historical and social scientific research on one of the twentieth century's most devastating humanitarian crises.
+  </div>
+</details>
 
-### Who Buys the Exit? Anti-Corruption Enforcement and the Purchase of Foreign Citizenship
+<details class="paper">
+  <summary>
+    <span class="paper-title">Who Buys the Exit? Anti-Corruption Enforcement and the Purchase of Foreign Citizenship</span>
+  </summary>
+  <div class="paper-abstract">
+    Abstract coming soon.
+  </div>
+</details>
 
-### Autocrats Before Autocracy: A Non-Tautological Measure of Executive Autocratic Tendencies
+<details class="paper">
+  <summary>
+    <span class="paper-title">Autocrats Before Autocracy: A Non-Tautological Measure of Executive Autocratic Tendencies</span>
+  </summary>
+  <div class="paper-abstract">
+    Do autocratic-mandated leaders erode democratic institutions, and through what channels? Are these systems capable of preventing backsliding? To answer these questions, I construct a new database of autocratic executives (e.g. Prime Ministers, Presidents) across over 50 competitive democracies from 1945 to 2025 using an ex-ante definition based on campaign manifestos. First, I show that the election of an autocratic-mandated leader strongly predicts whether a country eventually transitions into autocracy. Second, I show using staggered difference-in-differences methods that, once in power, these leaders gradually weaken democratic institutions and judicial constraints on the executive. They do so by conducting judicial purges, court packing, non-compliance. Third, I show that their inaugurations are followed by weakened media independence, increased government media censorship, and a rise in journalist harassment. These results show that these leaders are constrained by existing institutional guardrails but these constraints are eroded overtime.
+  </div>
+</details>
 
-Do autocratic-mandated leaders erode democratic institutions, and through what channels? Are these systems capable of preventing backsliding? To answer these questions, I construct a new database of autocratic executives (e.g. Prime Ministers, Presidents) across over 50 competitive democracies from 1945 to 2025 using an ex-ante definition based on campaign manifestos. First, I show that the election of an autocratic-mandated leader strongly predicts whether a country eventually transitions into autocracy. Second, I show using staggered difference-in-differences methods that, once in power, these leaders gradually weaken democratic institutions and judicial constraints on the executive. They do so by conducting judicial purges, court packing, non-compliance. Third, I show that their inaugurations are followed by weakened media independence, increased government media censorship, and a rise in journalist harassment. These results show that these leaders are constrained by existing institutional guardrails but these constraints are eroded overtime.
+<hr>
 
----
+<h2>Theses</h2>
 
-## Theses
-
-### A Crisis of Consensus: Austerity and the Rise of Political Polarization
-
-*MRes thesis, Sciences Po Paris, May 2025. Supervisor: Dr. Moritz Schularick. Jury: Dr. Kevin O'Rourke. Grade: 16/20 (A).*
-
-This study examines the political consequences of fiscal consolidations using a comprehensive dataset of austerity shocks and electoral outcomes across 15 advanced democracies from 1978 to 2016. It finds that austerity shocks significantly increase political polarization and support for non-mainstream parties over a four-year horizon, driven by austerity-induced economic insecurity. These results remain robust when controlling for financial crises and endogeneity. While the economic costs of austerity are larger during slumps than booms, the political effects are unexpectedly more pronounced when austerity is implemented during economic expansions. This divergence from the predictions of the economic insecurity channel suggests the presence of state-heterogeneous political responses to fiscal consolidation, offering new directions for future research.
+<details class="paper">
+  <summary>
+    <span class="paper-title">A Crisis of Consensus: Austerity and the Rise of Political Polarization</span>
+    <span class="paper-meta">&nbsp;— MRes thesis, Sciences Po Paris, May 2025</span>
+  </summary>
+  <div class="paper-abstract">
+    <p><em>Supervisor: Dr. Moritz Schularick. Jury: Dr. Kevin O'Rourke. Grade: 16/20 (A).</em></p>
+    This study examines the political consequences of fiscal consolidations using a comprehensive dataset of austerity shocks and electoral outcomes across 15 advanced democracies from 1978 to 2016. It finds that austerity shocks significantly increase political polarization and support for non-mainstream parties over a four-year horizon, driven by austerity-induced economic insecurity. These results remain robust when controlling for financial crises and endogeneity. While the economic costs of austerity are larger during slumps than booms, the political effects are unexpectedly more pronounced when austerity is implemented during economic expansions. This divergence from the predictions of the economic insecurity channel suggests the presence of state-heterogeneous political responses to fiscal consolidation, offering new directions for future research.
+  </div>
+</details>
+```
