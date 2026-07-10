@@ -60,7 +60,7 @@ details.paper .paper-abstract {
 
 <details class="paper">
   <summary>
-    <span class="paper-title">Who Buys the Exit? Anti-Corruption Enforcement and the Purchase of Foreign Citizenship</span>
+    <span class="paper-title">Who Buys the Exit? Domestic Prosecution Risk and the Purchase of Foreign Citizenship</span>
     <span class="paper-meta">&nbsp;— Working paper, July 2026</span>
   </summary>
   <div class="paper-abstract">
