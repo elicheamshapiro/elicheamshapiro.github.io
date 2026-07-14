@@ -65,7 +65,7 @@ details.paper .paper-abstract {
   </summary>
   <div class="paper-abstract">
     Who buys their way out of an authoritarian state's enforcement? Using a newly compiled register of all 4,167 foreign naturalizations granted by Cambodia (2000–2023), I study cross-border investment naturalization as an observable margin of elite exit. In 2018, a Cambodian reform that fast-tracked naturalization while raising its price sharply expanded foreign naturalization. I exploit this common host-country opening to ask which Chinese provinces took it up. Using the cross-province intensity of Xi Jinping's anti-corruption campaign as a measure of prosecution risk, I find that take-up rose disproportionately from high-enforcement provinces: a one-standard-deviation increase in pre-2018 enforcement raises post-2018 naturalizations by a factor of roughly 2.6. The estimate survives a score wild-cluster bootstrap and controls for provincial wealth, diaspora networks, province corruption history and reproduces at the individual level (2.30 times higher odds of post-opening entry, driven by enforcement, not wealth). That take-up surged despite a higher price points to demand for a credible exit rather than a discount—rare individual- and regional-level evidence consistent with purchased citizenship as a hedge against domestic prosecution and expropriation risk.
-    <p style="margin-top: 0.9rem; margin-bottom: 0;"><a href="papers/who-buys-the-exit.pdf">Download PDF</a></p>
+    <p style="margin-top: 0.9rem; margin-bottom: 0;"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7037799" target="_blank">View on SSRN</a></p>
   </div>
 </details>
 
