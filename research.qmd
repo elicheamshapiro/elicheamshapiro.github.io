@@ -8,7 +8,7 @@ title: "Research"
   Click a title to read the abstract.
 </p>
 
-<h2 class="section-label">Working papers</h2>
+<h2 class="section-label">Works in Progress/Working Papers</h2>
 
 <div class="paper-list">
 
@@ -35,22 +35,6 @@ title: "Research"
     <div class="paper-actions">
       <a class="paper-btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7066520" target="_blank" rel="noopener">Read on SSRN</a>
     </div>
-  </div>
-</details>
-
-</div>
-
-<h2 class="section-label">Work in progress</h2>
-
-<div class="paper-list">
-
-<details class="paper">
-  <summary>
-    <span class="paper-title">The Cambodia Historical Data Bank</span>
-    <span class="paper-meta">Ongoing data project</span>
-  </summary>
-  <div class="paper-abstract">
-    <p>I am building a publicly available historical databank for Cambodia covering the period before, during, and after the Khmer Rouge. The goal is to compile, digitize, and harmonize administrative, demographic, and economic records into usable datasets that can support historical and social scientific research on one of the twentieth century's most devastating humanitarian crises.</p>
   </div>
 </details>
 
