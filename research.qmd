@@ -14,7 +14,7 @@ title: "Research"
 
 <details class="paper">
   <summary>
-    <span class="paper-title">Who Buys the Exit? Domestic Prosecution Risk and the Purchase of Foreign Citizenship</span>
+    <span class="paper-title">Domestic Prosecution Risk and Demand for Foreign Citizenship: Evidence from Cambodia’s Naturalization Register</span>
     <span class="paper-meta">Working paper &middot; July 2026</span>
   </summary>
   <div class="paper-abstract">
