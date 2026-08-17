@@ -3,95 +3,73 @@ title: "Research"
 ---
 
 ```{=html}
-<style>
-details.paper {
-  margin-bottom: 1.4rem;
-}
-details.paper summary {
-  list-style: none;
-  cursor: pointer;
-  display: flex;
-  align-items: baseline;
-  gap: 0.5rem;
-}
-details.paper summary::-webkit-details-marker { display: none; }
-details.paper summary::before {
-  content: "▶";
-  font-size: 0.65rem;
-  color: #011F5B;
-  flex-shrink: 0;
-  transition: transform 0.2s;
-  position: relative;
-  top: -0.05em;
-}
-details.paper[open] summary::before {
-  transform: rotate(90deg);
-}
-details.paper summary .paper-title {
-  font-size: 1.05rem;
-  font-weight: 600;
-  color: #011F5B;
-}
-details.paper summary .paper-meta {
-  font-size: 0.9rem;
-  color: #555;
-  font-style: italic;
-}
-details.paper .paper-abstract {
-  margin-top: 0.75rem;
-  padding-left: 1.1rem;
-  border-left: 3px solid #e0e0e0;
-  color: #333;
-  font-size: 0.95rem;
-  line-height: 1.65;
-}
-</style>
+<p class="section-note" style="margin-top:-1rem; margin-bottom:2.6rem;">
+  My work sits at the intersection of political economy, public finance, and economic history.
+  Click a title to read the abstract.
+</p>
 
-<h2>Work in progress</h2>
+<h2 class="section-label">Working papers</h2>
 
-<details class="paper">
-  <summary>
-    <span class="paper-title">The Cambodia Historical Data Bank</span>
-  </summary>
-  <div class="paper-abstract">
-    I am building a publicly available historical databank for Cambodia covering the period before, during, and after the Khmer Rouge. The goal is to compile, digitize, and harmonize administrative, demographic, and economic records into usable datasets that can support historical and social scientific research on one of the twentieth century's most devastating humanitarian crises.
-  </div>
-</details>
+<div class="paper-list">
 
 <details class="paper">
   <summary>
     <span class="paper-title">Who Buys the Exit? Domestic Prosecution Risk and the Purchase of Foreign Citizenship</span>
-    <span class="paper-meta">&nbsp;— Working paper, July 2026</span>
+    <span class="paper-meta">Working paper &middot; July 2026</span>
   </summary>
   <div class="paper-abstract">
-    Who buys their way out of an authoritarian state's enforcement? Using a newly compiled register of all 4,167 foreign naturalizations granted by Cambodia (2000–2023), I study cross-border investment naturalization as an observable margin of elite exit. In 2018, a Cambodian reform that fast-tracked naturalization while raising its price sharply expanded foreign naturalization. I exploit this common host-country opening to ask which Chinese provinces took it up. Using the cross-province intensity of Xi Jinping's anti-corruption campaign as a measure of prosecution risk, I find that take-up rose disproportionately from high-enforcement provinces: a one-standard-deviation increase in pre-2018 enforcement raises post-2018 naturalizations by a factor of roughly 2.6. The estimate survives a score wild-cluster bootstrap and controls for provincial wealth, diaspora networks, province corruption history and reproduces at the individual level (2.30 times higher odds of post-opening entry, driven by enforcement, not wealth). That take-up surged despite a higher price points to demand for a credible exit rather than a discount—rare individual- and regional-level evidence consistent with purchased citizenship as a hedge against domestic prosecution and expropriation risk.
-    <p style="margin-top: 0.9rem; margin-bottom: 0;"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7037799" target="_blank">Read on SSRN</a></p>
+    <p>Who buys their way out of an authoritarian state's enforcement? Using a newly compiled register of all 4,167 foreign naturalizations granted by Cambodia (2000–2023), I study cross-border investment naturalization as an observable margin of elite exit. In 2018, a Cambodian reform that fast-tracked naturalization while raising its price sharply expanded foreign naturalization. I exploit this common host-country opening to ask which Chinese provinces took it up. Using the cross-province intensity of Xi Jinping's anti-corruption campaign as a measure of prosecution risk, I find that take-up rose disproportionately from high-enforcement provinces: a one-standard-deviation increase in pre-2018 enforcement raises post-2018 naturalizations by a factor of roughly 2.6. The estimate survives a score wild-cluster bootstrap and controls for provincial wealth, diaspora networks, province corruption history and reproduces at the individual level (2.30 times higher odds of post-opening entry, driven by enforcement, not wealth). That take-up surged despite a higher price points to demand for a credible exit rather than a discount—rare individual- and regional-level evidence consistent with purchased citizenship as a hedge against domestic prosecution and expropriation risk.</p>
+    <div class="paper-actions">
+      <a class="paper-btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7037799" target="_blank" rel="noopener">Read on SSRN</a>
+    </div>
   </div>
 </details>
 
 <details class="paper">
   <summary>
     <span class="paper-title">Autocrats Before Autocracy: A Non-Tautological Measure of Democratic Backsliding</span>
-    <span class="paper-meta">&nbsp;— Working paper, July 2026</span>
+    <span class="paper-meta">Working paper &middot; July 2026</span>
   </summary>
   <div class="paper-abstract">
-    Do autocratic-mandated leaders erode democratic institutions, and through what channels? To answer these questions, I construct a new database of autocratic executives (Prime Ministers, Presidents) across 62 competitive democracies from 1945 to 2025, using an ex-ante definition based on party campaign manifestos scored by a large language model for the share of content devoted to autocratic rhetoric. First, I show that the election of an autocratic-mandated leader strongly predicts whether a country transitions into autocracy within the following decade, under two independent regime classifications. Second, using local-projections and heterogeneity-robust difference-in-differences, I show that once in power these leaders weaken democratic institutions and judicial constraints on the executive gradually and cumulatively without reversion. They do so through executive non-compliance with the courts and court packing, rather than outright purges of sitting judges, alongside rising government and self-censorship of the media and harassment of journalists. Together the results show that autocratic-mandated leaders are constrained by existing institutional guardrails at first but wear them down over time, and that this trajectory is, to a meaningful degree, visible in their campaign rhetoric before it unfolds.
-    <p style="margin-top: 0.9rem; margin-bottom: 0;"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7066520" target="_blank">Read on SSRN</a></p>
+    <p>Do autocratic-mandated leaders erode democratic institutions, and through what channels? To answer these questions, I construct a new database of autocratic executives (Prime Ministers, Presidents) across 62 competitive democracies from 1945 to 2025, using an ex-ante definition based on party campaign manifestos scored by a large language model for the share of content devoted to autocratic rhetoric. First, I show that the election of an autocratic-mandated leader strongly predicts whether a country transitions into autocracy within the following decade, under two independent regime classifications. Second, using local-projections and heterogeneity-robust difference-in-differences, I show that once in power these leaders weaken democratic institutions and judicial constraints on the executive gradually and cumulatively without reversion. They do so through executive non-compliance with the courts and court packing, rather than outright purges of sitting judges, alongside rising government and self-censorship of the media and harassment of journalists. Together the results show that autocratic-mandated leaders are constrained by existing institutional guardrails at first but wear them down over time, and that this trajectory is, to a meaningful degree, visible in their campaign rhetoric before it unfolds.</p>
+    <div class="paper-actions">
+      <a class="paper-btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7066520" target="_blank" rel="noopener">Read on SSRN</a>
+    </div>
   </div>
 </details>
 
-<hr>
+</div>
 
-<h2>Theses</h2>
+<h2 class="section-label">Work in progress</h2>
+
+<div class="paper-list">
+
+<details class="paper">
+  <summary>
+    <span class="paper-title">The Cambodia Historical Data Bank</span>
+    <span class="paper-meta">Ongoing data project</span>
+  </summary>
+  <div class="paper-abstract">
+    <p>I am building a publicly available historical databank for Cambodia covering the period before, during, and after the Khmer Rouge. The goal is to compile, digitize, and harmonize administrative, demographic, and economic records into usable datasets that can support historical and social scientific research on one of the twentieth century's most devastating humanitarian crises.</p>
+  </div>
+</details>
+
+</div>
+
+<h2 class="section-label">Theses</h2>
+
+<div class="paper-list">
 
 <details class="paper">
   <summary>
     <span class="paper-title">A Crisis of Consensus: Austerity and the Rise of Political Polarization</span>
-    <span class="paper-meta">&nbsp;— MRes thesis, Sciences Po Paris, May 2025</span>
+    <span class="paper-meta">MRes thesis &middot; Sciences Po Paris &middot; May 2025</span>
   </summary>
   <div class="paper-abstract">
     <p><em>Supervisor: Dr. Moritz Schularick. Jury: Dr. Kevin O'Rourke. Grade: 16/20 (A).</em></p>
-    This study examines the political consequences of fiscal consolidations using a comprehensive dataset of austerity shocks and electoral outcomes across 15 advanced democracies from 1978 to 2016. It finds that austerity shocks significantly increase political polarization and support for non-mainstream parties over a four-year horizon, driven by austerity-induced economic insecurity. These results remain robust when controlling for financial crises and endogeneity. While the economic costs of austerity are larger during slumps than booms, the political effects are unexpectedly more pronounced when austerity is implemented during economic expansions. This divergence from the predictions of the economic insecurity channel suggests the presence of state-heterogeneous political responses to fiscal consolidation, offering new directions for future research.
+    <p>This study examines the political consequences of fiscal consolidations using a comprehensive dataset of austerity shocks and electoral outcomes across 15 advanced democracies from 1978 to 2016. It finds that austerity shocks significantly increase political polarization and support for non-mainstream parties over a four-year horizon, driven by austerity-induced economic insecurity. These results remain robust when controlling for financial crises and endogeneity. While the economic costs of austerity are larger during slumps than booms, the political effects are unexpectedly more pronounced when austerity is implemented during economic expansions. This divergence from the predictions of the economic insecurity channel suggests the presence of state-heterogeneous political responses to fiscal consolidation, offering new directions for future research.</p>
   </div>
 </details>
+
+</div>
 ```

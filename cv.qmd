@@ -3,9 +3,23 @@ title: "CV"
 ---
 
 ```{=html}
-<p style="margin-top: 2rem;">
-  <a href="assets/cv.pdf" class="about-link" download>
+<p class="section-note" style="margin-top:-1rem;">
+  Last updated July 2026.
+</p>
+
+<div class="about-links" style="margin-top:1.4rem; padding-top:0; border-top:none;">
+  <a href="assets/cv.pdf" class="paper-btn" download>
     <i class="bi bi-download"></i> Download PDF
   </a>
-</p>
+  <a href="assets/cv.pdf" class="paper-btn" target="_blank" rel="noopener">
+    <i class="bi bi-box-arrow-up-right"></i> Open in new tab
+  </a>
+</div>
+
+<object class="cv-embed" data="assets/cv.pdf" type="application/pdf">
+  <p style="padding:2rem; color:var(--ink-faint); font-family:var(--sans); font-size:0.9rem;">
+    Your browser can't display the PDF inline.
+    <a href="assets/cv.pdf" download>Download it instead</a>.
+  </p>
+</object>
 ```

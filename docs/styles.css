@@ -1,14 +1,100 @@
-/* ── Penn Colors ── */
-/* Penn Blue: #011F5B | Penn Red: #990000 */
+/* ==========================================================================
+   Eli Cheam Shapiro — personal site
+   Palette anchored on Penn Blue (#011F5B) with Penn Red (#990000) as accent.
+   ========================================================================== */
 
-/* ── General ── */
-body {
-  font-family: "Georgia", serif;
-  color: #1a1a1a;
+:root {
+  /* Ink */
+  --ink:        #1b1b1f;
+  --ink-soft:   #45454e;
+  --ink-faint:  #7a7a84;
+
+  /* Brand */
+  --navy:       #011F5B;
+  --navy-soft:  #2b4a87;
+  --red:        #990000;
+
+  /* Ground */
+  --paper:      #fcfbf9;
+  --surface:    #ffffff;
+  --rule:       #e4e1db;
+  --rule-soft:  #efedE8;
+
+  /* Type */
+  --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --sans:  "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+  /* Rhythm */
+  --measure: 64ch;
+  --pad:     1.5rem;
 }
 
+/* ── Base ────────────────────────────────────────────────────────────────── */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--serif);
+  font-size: 1.02rem;
+  line-height: 1.72;
+  color: var(--ink);
+  background-color: var(--paper);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+main.content,
+#quarto-content > main {
+  max-width: 940px;
+  padding-top: 1rem;
+}
+
+a {
+  color: var(--navy);
+  text-decoration-color: rgba(1, 31, 91, 0.28);
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+  transition: color 0.18s ease, text-decoration-color 0.18s ease;
+}
+
+a:hover {
+  color: var(--red);
+  text-decoration-color: rgba(153, 0, 0, 0.5);
+}
+
+::selection {
+  background: rgba(1, 31, 91, 0.14);
+}
+
+/* ── Navbar ──────────────────────────────────────────────────────────────── */
+
 .navbar {
-  background-color: #990000 !important;
+  background-color: rgba(252, 251, 249, 0.92) !important;
+  backdrop-filter: saturate(180%) blur(10px);
+  -webkit-backdrop-filter: saturate(180%) blur(10px);
+  border-bottom: 1px solid var(--rule);
+  padding-top: 0.55rem;
+  padding-bottom: 0.55rem;
+  box-shadow: none;
+}
+
+.navbar > .container-fluid,
+.navbar > .container {
+  max-width: 940px;
+}
+
+.navbar-brand {
+  font-family: var(--serif) !important;
+  font-size: 1.12rem !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.005em;
+  color: var(--navy) !important;
+}
+
+.navbar-brand:hover {
+  color: var(--red) !important;
 }
 
 .navbar-nav.navbar-nav-scroll {
@@ -16,130 +102,375 @@ body {
   flex-wrap: nowrap !important;
 }
 
-.navbar-brand,
-.nav-link {
-  color: #e0e0e0 !important;
+.navbar .nav-link {
+  position: relative;
+  font-family: var(--sans) !important;
+  font-size: 0.76rem !important;
+  font-weight: 500;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--ink-soft) !important;
+  padding-left: 0.85rem !important;
+  padding-right: 0.85rem !important;
 }
 
-.nav-link:hover,
-.nav-link.active {
-  color: #ffffff !important;
+/* Red underline grows in on hover / stays on the active page */
+.navbar .nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0.85rem;
+  right: 0.85rem;
+  bottom: 0.15rem;
+  height: 2px;
+  background: var(--red);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.22s ease;
 }
 
-/* ── Home / About section ── */
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: var(--navy) !important;
+}
+
+.navbar .nav-link:hover::after,
+.navbar .nav-link.active::after {
+  transform: scaleX(1);
+}
+
+/* Icon links on the right sit closer together and lose the underline */
+.navbar .navbar-nav.ms-auto .nav-link,
+.navbar .quarto-navbar-tools .nav-link {
+  font-size: 1rem !important;
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+}
+
+.navbar .navbar-nav.ms-auto .nav-link::after,
+.navbar .quarto-navbar-tools .nav-link::after {
+  display: none;
+}
+
+.navbar-toggler {
+  border-color: var(--rule);
+}
+
+/* ── Page titles (Research, CV) ──────────────────────────────────────────── */
+
+#title-block-header .quarto-title h1.title,
+h1.title {
+  font-family: var(--serif);
+  font-size: 2.3rem;
+  font-weight: 600;
+  letter-spacing: -0.018em;
+  color: var(--navy);
+  margin-bottom: 0.5rem;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+#title-block-header {
+  margin-bottom: 2.2rem;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+/* Short red rule beneath every page title */
+#title-block-header .quarto-title::after {
+  content: "";
+  display: block;
+  width: 46px;
+  height: 3px;
+  background: var(--red);
+  margin-top: 0.9rem;
+}
+
+/* ── Home / hero ─────────────────────────────────────────────────────────── */
+
 .about-section {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  gap: 3rem;
-  margin-top: 3rem;
-  max-width: 960px;
+  gap: 3.5rem;
+  margin-top: 3.5rem;
+  margin-bottom: 2rem;
 }
 
 .about-text {
   flex: 1;
+  min-width: 0;
 }
 
 .about-name {
-  font-size: 2.4rem;
-  font-weight: 700;
-  margin-bottom: 0.2rem;
-  color: #011F5B;
+  font-family: var(--serif);
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -0.025em;
+  color: var(--navy);
+  margin: 0 0 1rem 0;
+}
+
+/* Red rule under the name */
+.about-name::after {
+  content: "";
+  display: block;
+  width: 46px;
+  height: 3px;
+  background: var(--red);
+  margin-top: 1rem;
 }
 
 .about-title {
-  font-size: 1.15rem;
+  font-family: var(--sans);
+  font-size: 0.8rem;
   font-weight: 600;
-  color: #011F5B;
-  margin-bottom: 0.1rem;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: var(--navy-soft);
+  margin: 0 0 0.35rem 0;
 }
 
 .about-subtitle {
-  font-size: 1rem;
-  color: #555;
-  margin-bottom: 1.4rem;
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: var(--ink-faint);
+  margin: 0 0 1.8rem 0;
 }
 
 .about-bio {
-  font-size: 1rem;
-  line-height: 1.75;
-  margin-bottom: 1rem;
-  color: #2a2a2a;
+  font-size: 1.04rem;
+  line-height: 1.78;
+  max-width: var(--measure);
+  color: var(--ink-soft);
+  margin: 0 0 1.15rem 0;
 }
 
+.about-bio strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+/* Contact links — understated, ruled rather than boxed */
 .about-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
-  margin-top: 1.5rem;
+  align-items: center;
+  gap: 1.75rem;
+  margin-top: 2rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--rule);
 }
 
 .about-link {
   display: inline-flex;
   align-items: center;
-  gap: 0.4rem;
-  padding: 0.45rem 1rem;
-  border: 1.5px solid #011F5B;
-  border-radius: 4px;
-  color: #011F5B;
+  gap: 0.45rem;
+  font-family: var(--sans);
+  font-size: 0.83rem;
+  font-weight: 500;
+  letter-spacing: 0.015em;
+  color: var(--ink-soft);
   text-decoration: none;
-  font-size: 0.9rem;
-  transition: background-color 0.2s, color 0.2s;
+  border: none;
+  padding: 0;
+  border-bottom: 1px solid transparent;
+  transition: color 0.18s ease, border-color 0.18s ease;
+}
+
+.about-link i {
+  font-size: 0.95rem;
+  color: var(--navy-soft);
+  transition: color 0.18s ease;
 }
 
 .about-link:hover {
-  background-color: #011F5B;
-  color: #fff;
+  color: var(--red);
+  background: none;
+  border-bottom-color: rgba(153, 0, 0, 0.4);
 }
 
-/* ── Profile photo ── */
+.about-link:hover i {
+  color: var(--red);
+}
+
+/* ── Profile photo ───────────────────────────────────────────────────────── */
+
 .about-photo {
   flex-shrink: 0;
-  width: 260px;
+  width: 250px;
 }
 
 .profile-photo {
   width: 100%;
-  border-radius: 8px;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  box-shadow:
+    0 1px 2px rgba(27, 27, 31, 0.07),
+    0 12px 30px -12px rgba(1, 31, 91, 0.22);
 }
 
-/* ── Research page ── */
-h3 {
-  margin-top: 2rem;
-  color: #011F5B;
-  font-size: 1.15rem;
+/* ── Section headings (Research) ─────────────────────────────────────────── */
+
+.section-label {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--red);
+  margin: 3.2rem 0 0 0;
+  padding-top: 1.1rem;
+  border-top: 2px solid var(--navy);
 }
 
-hr {
-  border-top: 1px solid #ddd;
-  margin: 1.5rem 0;
+.section-label:first-of-type {
+  margin-top: 0.5rem;
+}
+
+.section-note {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--ink-faint);
+  margin: 0.5rem 0 0 0;
+  max-width: var(--measure);
+}
+
+/* ── Paper entries ───────────────────────────────────────────────────────── */
+
+.paper-list {
+  margin-top: 0.6rem;
+}
+
+details.paper {
+  padding: 1.35rem 0;
+  border-bottom: 1px solid var(--rule-soft);
+}
+
+details.paper summary {
+  list-style: none;
+  cursor: pointer;
+  display: grid;
+  grid-template-columns: 1.1rem 1fr;
+  column-gap: 0.6rem;
+  align-items: start;
+}
+
+details.paper summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Chevron */
+details.paper summary::before {
+  content: "";
+  grid-column: 1;
+  width: 0.42rem;
+  height: 0.42rem;
+  margin-top: 0.52em;
+  border-right: 1.6px solid var(--navy-soft);
+  border-bottom: 1.6px solid var(--navy-soft);
+  transform: rotate(-45deg);
+  transition: transform 0.22s ease, border-color 0.18s ease;
+}
+
+details.paper[open] summary::before {
+  transform: rotate(45deg);
+}
+
+details.paper summary:hover::before {
+  border-color: var(--red);
+}
+
+details.paper summary .paper-title {
+  grid-column: 2;
+  font-family: var(--serif);
+  font-size: 1.18rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: -0.008em;
+  color: var(--navy);
+  transition: color 0.18s ease;
+}
+
+details.paper summary:hover .paper-title {
+  color: var(--red);
+}
+
+details.paper summary .paper-meta {
+  grid-column: 2;
+  display: block;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin-top: 0.42rem;
+}
+
+details.paper .paper-abstract {
+  margin: 1rem 0 0 calc(1.1rem + 0.6rem);
+  padding-left: 1.15rem;
+  border-left: 2px solid var(--rule);
+  max-width: var(--measure);
+  font-size: 0.97rem;
+  line-height: 1.72;
+  color: var(--ink-soft);
+}
+
+.paper-abstract p:last-child {
+  margin-bottom: 0;
+}
+
+/* Small bordered action button (SSRN, PDF, replication) */
+.paper-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1.1rem;
 }
 
 .paper-btn {
-  display: inline-block;
-  padding: 0.2rem 0.6rem;
-  border: 1.5px solid #011F5B;
-  border-radius: 4px;
-  color: #011F5B !important;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.32rem 0.8rem;
+  border: 1px solid rgba(1, 31, 91, 0.35);
+  border-radius: 3px;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.045em;
+  color: var(--navy) !important;
   text-decoration: none !important;
-  font-size: 0.85rem;
-  font-family: sans-serif;
-  margin-right: 0.3rem;
-  margin-bottom: 0.8rem;
-  transition: background-color 0.2s, color 0.2s;
+  background: var(--surface);
+  transition: background-color 0.18s ease, color 0.18s ease, border-color 0.18s ease;
 }
 
 .paper-btn:hover {
-  background-color: #011F5B;
+  background-color: var(--navy);
+  border-color: var(--navy);
   color: #fff !important;
 }
 
+/* ── CV page ─────────────────────────────────────────────────────────────── */
 
-/* ── CV entries ── */
+.cv-embed {
+  width: 100%;
+  height: 78vh;
+  min-height: 520px;
+  margin-top: 1.6rem;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: var(--surface);
+}
+
 .cv-entry {
-  margin-bottom: 1.6rem;
+  margin-bottom: 1.7rem;
 }
 
 .cv-header {
@@ -150,34 +481,114 @@ hr {
 }
 
 .cv-org {
-  font-weight: 800;
-  color: #1a1a1a;
+  font-weight: 600;
+  color: var(--ink);
 }
 
 .cv-date {
   white-space: nowrap;
   flex-shrink: 0;
-  color: #333;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--ink-faint);
 }
 
 .cv-role {
   font-style: italic;
-  margin-top: 0.2rem;
+  margin-top: 0.15rem;
+  color: var(--ink-soft);
 }
 
 .cv-detail {
   margin-top: 0.2rem;
-  color: #333;
+  color: var(--ink-soft);
 }
 
-/* ── Responsive ── */
+/* ── Footer ──────────────────────────────────────────────────────────────── */
+
+.nav-footer {
+  background-color: transparent;
+  border-top: 1px solid var(--rule);
+  margin-top: 4rem;
+  padding-top: 1.4rem;
+  padding-bottom: 1.4rem;
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+}
+
+.nav-footer a {
+  color: var(--ink-faint);
+  text-decoration: none;
+}
+
+.nav-footer a:hover {
+  color: var(--red);
+}
+
+/* ── Misc ────────────────────────────────────────────────────────────────── */
+
+hr {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 2.4rem 0;
+  opacity: 1;
+}
+
+h2, h3 {
+  font-family: var(--serif);
+  color: var(--navy);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+h2 { font-size: 1.5rem; margin-top: 2.6rem; }
+h3 { font-size: 1.18rem; margin-top: 2rem; }
+
+/* ── Responsive ──────────────────────────────────────────────────────────── */
+
+@media (max-width: 860px) {
+  .about-section {
+    gap: 2.5rem;
+  }
+  .about-photo {
+    width: 210px;
+  }
+  .about-name {
+    font-size: 2.5rem;
+  }
+}
+
 @media (max-width: 768px) {
+  body {
+    font-size: 1rem;
+  }
   .about-section {
     flex-direction: column-reverse;
+    gap: 2rem;
+    margin-top: 2rem;
   }
   .about-photo {
     width: 100%;
-    max-width: 300px;
-    margin: 0 auto;
+    max-width: 240px;
+  }
+  .about-name {
+    font-size: 2.3rem;
+  }
+  .about-links {
+    gap: 1.1rem 1.5rem;
+  }
+  h1.title {
+    font-size: 1.9rem;
+  }
+  details.paper summary .paper-title {
+    font-size: 1.08rem;
+  }
+  details.paper .paper-abstract {
+    margin-left: 0;
+    padding-left: 1rem;
+  }
+  .cv-embed {
+    height: 60vh;
   }
 }
