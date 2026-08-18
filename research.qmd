@@ -12,6 +12,11 @@ title: "Research"
 
 <div class="paper-list">
 
+<div class="paper paper-static">
+  <span class="paper-title">Autocratization and Public R&amp;D in Liberal Democracies</span>
+  <span class="paper-meta">Work in progress &middot; Started August 2026</span>
+</div>
+
 <details class="paper">
   <summary>
     <span class="paper-title">Domestic Prosecution Risk and Demand for Foreign Citizenship: Evidence from Cambodia’s Naturalization Register</span>
