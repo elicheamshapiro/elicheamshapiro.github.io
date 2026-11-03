@@ -4,7 +4,7 @@ title: "Research"
 
 ```{=html}
 <p class="section-note" style="margin-top:-1rem; margin-bottom:2.6rem;">
-  My work sits at the intersection of political economy, public finance, and economic history.
+  My work sits at the intersection of political economy, public finance, economic history, and network analysis.
   Click a title to read the abstract.
 </p>
 
@@ -14,11 +14,11 @@ title: "Research"
 
 <details class="paper">
   <summary>
-    <span class="paper-title">Sanctions and the Pivot to Autocratic Patrons</span>
-    <span class="paper-meta">Work in progress &middot; Started August 2026</span>
+    <span class="paper-title">Federal Funding, Patent Ownership and the Diffusion of Knowledge, 1950 to 2025</span>
+    <span class="paper-meta">Work in progress &middot; with Alex Arnon and Gabriel Marin (Penn Wharton Budget Model)</span>
   </summary>
   <div class="paper-abstract">
-    <p><em>Early stage — full abstract to follow.</em></p>
+    <p><em>Full abstract to follow.</em></p>
   </div>
 </details>
 
@@ -37,7 +37,7 @@ title: "Research"
 
 <details class="paper">
   <summary>
-    <span class="paper-title">Autocrats Before Autocracy: A Non-Tautological Measure of Democratic Backsliding</span>
+    <span class="paper-title">Autocrats Before Autocracy</span>
     <span class="paper-meta">Working paper &middot; July 2026</span>
   </summary>
   <div class="paper-abstract">
